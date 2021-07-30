@@ -4,3 +4,6 @@
   
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryamankukal&theme=dark)](https://git.io/streak-stats)
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryamankukal)](https://github.com/anuraghazra/github-readme-stats)
+
