@@ -62,16 +62,22 @@ I'm a Data Science and Computer Science student at UC Berkeley, passionate about
 
 ---
 
+---
+
 ### 👶 Where It All Started
 
-Before I was building LLM agents and scaling ML pipelines, I was just a curious 10-year-old writing Python scripts on my bedroom laptop.
+Some of my earliest coding experiments from age 10–12:
 
-Some of my first-ever programs (yes, they still exist 😄) include:
-- 🕰️ [**Live Virtual Analog Clock**](https://github.com/aryamankukal/My-Python-Programs/blob/master/Live%20Virtual%20Analog%20Clock) — drew an analog clock using Python graphics
-- 🧮 [**Calco: A Python Programmed Mathematician**](https://github.com/aryamankukal/My-Python-Programs/blob/master/Calco:%20A%20Python%20Programmed%20Mathematician) — a calculator with flair and logic
-- 🎥 [**Cinema Movie Program**](https://github.com/aryamankukal/My-Python-Programs/blob/master/CinemaMovieProgram.py) — simulated a basic ticketing experience
+- 🕰️ [**Live Virtual Analog Clock**](https://github.com/aryamankukal/My-Python-Programs/blob/master/Live%20Virtual%20Analog%20Clock)  
+  A real-time analog clock built with `turtle`, complete with animated hands and a golden dial.
 
-Check out the full archive here: [My First Python Programs](https://github.com/aryamankukal/My-Python-Programs)  
+- 🧮 [**Calco**](https://github.com/aryamankukal/My-Python-Programs/blob/master/Calco:%20A%20Python%20Programmed%20Mathematician)  
+  A talking calculator that takes voice input and speaks the answer back.
+
+- 🎥 [**Cinema Movie Program**](https://github.com/aryamankukal/My-Python-Programs/blob/master/CinemaMovieProgram.py)  
+  A mini movie ticketing system with age checks and seat tracking.
+
+→ [See the full archive](https://github.com/aryamankukal/My-Python-Programs)
 
 ---
 
