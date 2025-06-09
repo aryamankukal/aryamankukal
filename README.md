@@ -7,7 +7,7 @@ I'm a Data Science and Computer Science student at UC Berkeley, passionate about
 ### 🧠 About Me
 
 - 🛠️ **Currently working on**:
-  - Studying Retrieval-Augmented Generation (RAG), AI agents, and open-source LLM pipelines
+  - Studying RAG, AI agents, and open-source LLM pipelines
   - Contributing to GTM agent infrastructure at [Dhisana AI](https://github.com/dhisana-ai) as an open-source developer
   - Building a Chrome extension that applies **spaced repetition** to LeetCode problems — tracks solved questions and auto-schedules smart reviews to boost long-term retention and performance
 
@@ -58,7 +58,7 @@ I'm a Data Science and Computer Science student at UC Berkeley, passionate about
   Helped design Assurance — a real-time ML-based weapon detection system for schools
 
 - 🎓 **Founder & Exec Roles**  
-  Codefy, SparkCS, EduVantage, The Academically Driven — ran tech education & nonprofit initiatives, built learning platforms
+  [Codefy](https://www.codefycs.org/), [SparkCS](https://youtu.be/CaB4NaDX1RQ?si=NenvAuqEwfH0rOKg), [EduVantage](https://youtu.be/Mckmkg2dcoY?si=PLmR1Hkt4yGEfp4X), [The Academically Driven](https://medium.com/the-academically-driven) — ran tech education & nonprofit initiatives, built learning platforms
 
 ---
 
