@@ -62,6 +62,19 @@ I'm a Data Science and Computer Science student at UC Berkeley, passionate about
 
 ---
 
+### 👶 Where It All Started
+
+Before I was building LLM agents and scaling ML pipelines, I was just a curious 10-year-old writing Python scripts on my bedroom laptop.
+
+Some of my first-ever programs (yes, they still exist 😄) include:
+- 🕰️ [**Live Virtual Analog Clock**](https://github.com/aryamankukal/My-Python-Programs/blob/master/Live%20Virtual%20Analog%20Clock) — drew an analog clock using Python graphics
+- 🧮 [**Calco: A Python Programmed Mathematician**](https://github.com/aryamankukal/My-Python-Programs/blob/master/Calco:%20A%20Python%20Programmed%20Mathematician) — a calculator with flair and logic
+- 🎥 [**Cinema Movie Program**](https://github.com/aryamankukal/My-Python-Programs/blob/master/CinemaMovieProgram.py) — simulated a basic ticketing experience
+
+Check out the full archive here: [My First Python Programs](https://github.com/aryamankukal/My-Python-Programs)  
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
