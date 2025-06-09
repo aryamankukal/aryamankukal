@@ -6,8 +6,12 @@ I'm a Data Science and Computer Science student at UC Berkeley, passionate about
 
 ### 🧠 About Me
 
-- 🛠️ **Currently working on**: Scholara.ai – building an LLM-based platform to simplify dense academic research papers via semantic search, citation-aware knowledge graphs, and voice-based agents.
-- 📚 **Learning**: Applied ML infra, LLM deployment, and Retrieval-Augmented Generation (RAG) using vector DBs like Chroma and FAISS.
+- 🛠️ **Currently working on**:
+  - Studying Retrieval-Augmented Generation (RAG), AI agents, and LLM infrastructure.
+  - Contributing to open-source projects at Dhisana AI in the GTM (Go-To-Market) automation space.
+  - Building a Chrome extension that applies spaced repetition to LeetCode problems — it auto-tracks solved questions and schedules smart reviews to boost retention and long-term problem-solving ability.
+
+- 📚 **Learning**: Applied ML infra, LLM deployment, and semantic search using vector DBs like Chroma and FAISS.
 - 🤝 **Open to Collaborate**: Always down to contribute to fast-paced teams or research projects that involve ML, NLP, or GenAI workflows—especially early-stage tools with impact potential.
 - 💬 **Ask me about**: LLMs, AI agents, semantic search, scalable backend systems, or anything at the intersection of ML and usability.
 - ⚡ **Fun Fact**: I’ve led teams across hackathons like CalHacks and TreeHacks, and built award-winning tools like AudioLec and ChatGuard.
