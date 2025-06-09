@@ -1,10 +1,3 @@
-### Hi! 👋
-
-  
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryamankukal&theme=dark)](https://git.io/streak-stats)
-
-
 ## Hi there, I'm Aryaman! 👋
 
 I'm a Data Science and Computer Science student at UC Berkeley. I enjoy building impactful ML and NLP applications—especially agent-based systems and scalable AI tools. From hackathons to research, I thrive on turning complex technical ideas into products that solve real problems.
