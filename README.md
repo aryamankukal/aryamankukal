@@ -1,46 +1,64 @@
 ## Hi there, I'm Aryaman! 👋
 
-I'm a Data Science and Computer Science student at UC Berkeley, passionate about building useful and scalable AI systems—especially at the intersection of NLP, ML infra, and agentic AI. Whether it’s building robust backends or shipping LLM-powered tools from idea to MVP, I thrive on solving real-world problems with clean, creative engineering.
+I'm a Data Science and Computer Science student at UC Berkeley, passionate about building impactful and scalable AI systems—especially at the intersection of NLP, LLM infra, and agentic workflows. I love turning technical ideas into polished tools that solve real-world problems.
 
 ---
 
 ### 🧠 About Me
 
 - 🛠️ **Currently working on**:
-  - Studying Retrieval-Augmented Generation (RAG), AI agents, and LLM infrastructure.
-  - Contributing to open-source projects at Dhisana AI in the GTM (Go-To-Market) automation space.
-  - Building a Chrome extension that applies spaced repetition to LeetCode problems — it auto-tracks solved questions and schedules smart reviews to boost retention and long-term problem-solving ability.
+  - Studying Retrieval-Augmented Generation (RAG), AI agents, and open-source LLM pipelines
+  - Contributing to GTM agent infrastructure at [Dhisana AI](https://github.com/dhisana-ai) as an open-source developer
+  - Building a Chrome extension that applies **spaced repetition** to LeetCode problems — tracks solved questions and auto-schedules smart reviews to boost long-term retention and performance
 
-- 📚 **Learning**: Applied ML infra, LLM deployment, and semantic search using vector DBs like Chroma and FAISS.
-- 🤝 **Open to Collaborate**: Always down to contribute to fast-paced teams or research projects that involve ML, NLP, or GenAI workflows—especially early-stage tools with impact potential.
-- 💬 **Ask me about**: LLMs, AI agents, semantic search, scalable backend systems, or anything at the intersection of ML and usability.
-- ⚡ **Fun Fact**: I’ve led teams across hackathons like CalHacks and TreeHacks, and built award-winning tools like AudioLec and ChatGuard.
+- 📚 **Learning**: Semantic search, LLM optimization, vector DBs (FAISS/Chroma), LangChain, and agent orchestration
+- 🤝 **Open to Collaborate**: Looking to contribute to startups or research in NLP, GenAI infra, or agentic systems
+- 💬 **Ask me about**: LLMs, backend infra, hackathon strategy, vector search, open-source tools
+- ⚡ **Fun Fact**: I’ve built award-winning AI tools like AudioLec and ChatGuard, and co-led teams at CalHacks, TreeHacks, and TSA Nationals
 
 ---
 
 ### 🧰 Skills & Tools
 
-- **Languages**: Python, Java, JavaScript, SQL, HTML, CSS
-- **Frameworks & Tools**: Flask, FastAPI, Node.js, React, Next.js, Electron.js, AWS, Git
-- **ML/NLP Stack**: Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Jupyter, HuggingFace, VADER, PyTesseract, Manim
-- **Databases & Infra**: SQLite, Chroma, Groq, Tailwind, Vapi.ai, Gemini API
-- **Certifications & Links**:
-  - [LinkedIn](https://www.linkedin.com/in/aryaman-kukal-2192581a9/)
-  - [GitHub](https://github.com/aryamankukal)
-  - [Devpost](https://devpost.com/aryamankukal)
+- **Languages**: Python, Java, JavaScript, SQL, HTML/CSS
+- **ML/NLP**: Scikit-learn, TensorFlow, Keras, PyTorch, HuggingFace, NLTK, VADER, PyTesseract
+- **Frameworks/Infra**: Flask, FastAPI, Node.js, React, Next.js, AWS EC2, Docker, Electron.js, Tailwind, Git
+- **Other Tools**: Chroma, Groq, Vapi.ai, Gemini API, Manim, SQLite, Jupyter, Pandas, NumPy, LaTeX
+- **Certifications**:
+  - [Supervised ML: Regression and Classification – DeepLearning.AI](https://www.coursera.org/account/accomplishments/certificate/UFKTFU4MK4EB)
+  - [Intro to TensorFlow – Coursera](https://www.coursera.org/account/accomplishments/certificate/UFKTFU4MK4EB)
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🎓 [**Scholara.ai**](https://devpost.com/software/scholora-ai) – Simplifies research papers using LLMs, voice agents, citation graphs  
+- 🎓 [**Scholara.ai**](https://devpost.com/software/scholora-ai) – Explains academic papers using LLMs, citation graphs, and voice agents  
   [GitHub](https://github.com/aryamankukal/CalHacks) | [Demo](https://youtu.be/vqJR_MNoJP0)
 
-- 🛡️ [**ChatGuard**](https://github.com/aryamankukal/ChatGaurdWebApp) – Web app for detecting and classifying online harassment  
-  [Demo](https://youtu.be/ybEy9ixKy70?si=SjnbZX9Qj9fnTCIt)
+- 🛡️ [**ChatGuard**](https://github.com/aryamankukal/ChatGaurdWebApp) – Detects and classifies harassment using NLP + OCR  
+  [Demo](https://youtu.be/ybEy9ixKy70?si=SjnbZX9Qj9fnTCIt) | 🏆 1st Place – Congressional App Challenge
 
-- 🧠 [**AudioLec**](https://github.com/aryamankukal/AudioLec) – AI-powered lecture transcriber and enhancer  
-  2× Hackathon winner | Finalist at TSA Nationals
+- 🧠 [**AudioLec**](https://github.com/aryamankukal/AudioLec) – Lecture transcriber that extracts key topics & suggests videos  
+  🏆 2× Hackathon Winner | TSA Nationals Top 10
+
+---
+
+### 💼 Past Experience Highlights
+
+- 🧑‍💻 **Software Engineer @ Playdo.ai**  
+  Built GPT-4 tools to validate test cases and redesigned backend with Flask, Node.js & AWS — served 150+ users with <200ms latency
+
+- 🌍 **Open Source @ Dhisana AI**  
+  Contributing to go-to-market AI tools and agent pipelines for GTM automation
+
+- 🧪 **ML Researcher @ Cambridge Centre for International Research**  
+  Built PTSD/GAD dataset, applied PCA + GMM for label refinement, used for semantic model training
+
+- 🛠️ **Intern @ Tech For Good Inc**  
+  Helped design Assurance — a real-time ML-based weapon detection system for schools
+
+- 🎓 **Founder & Exec Roles**  
+  Codefy, SparkCS, EduVantage, The Academically Driven — ran tech education & nonprofit initiatives, built learning platforms
 
 ---
 
@@ -55,4 +73,7 @@ I'm a Data Science and Computer Science student at UC Berkeley, passionate about
 
 ### 📬 Get in Touch
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/aryaman-kukal-2192581a9/) or email me at **aryamankukal@berkeley.edu**. Open to internships, research, or just good conversations around applied AI and ML!
+- 📧 aryamankukal@berkeley.edu  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aryaman-kukal-2192581a9/) | [GitHub](https://github.com/aryamankukal) | [Devpost](https://devpost.com/aryamankukal)
+
+Thanks for stopping by! 🚀
