@@ -14,7 +14,7 @@ I'm a Data Science and Computer Science student at UC Berkeley, passionate about
 - 📚 **Learning**: Semantic search, LLM optimization, vector DBs (FAISS/Chroma), LangChain, and agent orchestration
 - 🤝 **Open to Collaborate**: Looking to contribute to startups or research in NLP, GenAI infra, or agentic systems
 - 💬 **Ask me about**: LLMs, backend infra, hackathon strategy, vector search, open-source tools
-- ⚡ **Fun Fact**: - I love singing (amateur R&B enthusiast), jamming out to music, and editing videos—in a past life I ran a YouTube channel with skits, short films, and trickshot videos.
+- ⚡ **Fun Fact**: I love singing (amateur R&B enthusiast), jamming out to music, and editing videos—in a past life I ran a YouTube channel with skits, short films, and trickshot videos.
 
 ---
 
