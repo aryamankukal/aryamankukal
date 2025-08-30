@@ -1,15 +1,27 @@
 ## Hi there, I'm Aryaman! 👋
 
-I'm a Data Science and Computer Science student at UC Berkeley, passionate about building impactful and scalable AI systems—especially at the intersection of NLP, LLM infra, and agentic workflows. I love turning technical ideas into polished tools that solve real-world problems.
+I'm a Data Science and Computer Science student at UC Berkeley.
+
+I'm currently at Medoh building high‑performance search and personalization systems to digitize and scale the doctor–patient experience.
+
+I'm interested in applied NLP, LLM infrastructure, and clever, intuitive interfaces.
+
+You can find my previous experience on Linkedin and my work on Github.
+
+Reach out at aryamankukal [at] berkeley [dot] edu.
+
+When I'm not building, you'll find me with my dog Astro, trying an ethnic food spot, writing, at a concert, in the gym, or on a late‑night drive blasting R&B.
+
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 
-- 🛠️ **Currently working on**:
-  - Studying RAG, AI agents, and open-source LLM pipelines
-  - Contributing to GTM agent infrastructure at [Dhisana AI](https://github.com/dhisana-ai) as an open-source developer
-  - Building a Chrome extension that applies **spaced repetition** to LeetCode problems — tracks solved questions and auto-schedules smart reviews to boost long-term retention and performance
+- 🛠️ **Currently working on**:  
+  - **Medoh Health** → Building an LLM-powered semantic search system (embeddings, pgvector, caching, personalization)  
+  - **FHL Vive Center @ UC Berkeley** → Research assistant on TAI Team, developing an LLM-powered educational agent for Berkeley courses (RAG + orchestration)  
+  - **Dhisana AI** → Contributing to GTM agent infrastructure as an open-source developer (Dockerized workflows, LangChain/LangGraph)  
+  - **LeetReps** → Chrome extension that applies **spaced repetition** to LeetCode problems — tracks solved questions and auto-schedules reviews to boost retention  
 
 - 📚 **Learning**: Semantic search, LLM optimization, vector DBs (FAISS/Chroma), LangChain, and agent orchestration
 - 🤝 **Open to Collaborate**: Looking to contribute to startups or research in NLP, GenAI infra, or agentic systems
@@ -45,6 +57,9 @@ I'm a Data Science and Computer Science student at UC Berkeley, passionate about
 
 ### 💼 Past Experience Highlights
 
+- 🧑‍💻 **Software Engineer @ Medoh**  
+  Built an **LLM-powered semantic search system** using Mistral/BGE embeddings with pgvector; automated embedding updates via PostgreSQL triggers, added caching & personalization layers, and improved precision from ~30% → ~95%.
+  
 - 🧑‍💻 **Software Engineer @ Playdo.ai**  
   Built GPT-4 tools to validate test cases and redesigned backend with Flask, Node.js & AWS — served 150+ users with <200ms latency
 
