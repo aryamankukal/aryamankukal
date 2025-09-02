@@ -1,6 +1,6 @@
 ## Hi there, I'm Aryaman! 👋
 
-I'm a Data Science and Computer Science student at UC Berkeley.
+I'm a student studying Data Science and Computer Science at UC Berkeley.
 
 I'm currently at Medoh building high‑performance search and personalization systems to digitize and scale the doctor–patient experience.
 
