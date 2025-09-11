@@ -21,7 +21,6 @@ When I'm not building, you'll find me with my dog Astro, trying an ethnic food s
   - **Medoh Health** → Building an LLM-powered semantic search system (embeddings, pgvector, caching, personalization)  
   - **FHL Vive Center @ UC Berkeley** → Research assistant on TAI Team, developing an LLM-powered educational agent for Berkeley courses (RAG + orchestration)  
   - **Dhisana AI** → Contributing to GTM agent infrastructure as an open-source developer (Dockerized workflows, LangChain/LangGraph)  
-  - **LeetReps** → Chrome extension that applies **spaced repetition** to LeetCode problems — tracks solved questions and auto-schedules reviews to boost retention  
 
 - 📚 **Learning**: Semantic search, LLM optimization, vector DBs (FAISS/Chroma), LangChain, and agent orchestration
 - 🤝 **Open to Collaborate**: Looking to contribute to startups or research in NLP, GenAI infra, or agentic systems
